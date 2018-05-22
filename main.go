@@ -1,12 +1,7 @@
 package main
 
-import (
-	// "log"
-	// "net/http"
-	"fmt"
-	// "os"
-)
+import "fmt"
 
 func main() {
-	fmt.Print("print str")
+	fmt.Println("ddd")
 }
